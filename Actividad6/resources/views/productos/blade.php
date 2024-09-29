@@ -1,0 +1,1 @@
+<h1>Vistas del producto</h1>
